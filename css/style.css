@@ -11,7 +11,8 @@ p {
 }
 
 .aNoStyle {
-    text-decoration: none;
+    text-decoration: inherit;
+    color: inherit;
 }
 .vertical-align-bottom {
     vertical-align: bottom;
